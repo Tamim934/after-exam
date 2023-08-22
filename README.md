@@ -62,11 +62,15 @@ The toUpperCase() method does not change the original string.
 
 Method trim() removes whitespace from both sides of a string.
 The trim() method does not change the original string
+
 ![](https://th.bing.com/th/id/OIP.e7wctU05A4bwwbjr9M8b-AHaE8?w=239&h=180&c=7&r=0&o=5&pid=1.7)
+
 ## JavaScript String method toString()
 The toString() method returns a string representing the object.
 By default toString() takes no parameters.
+
 ![](https://th.bing.com/th/id/OIP.Lt5-Rl5hdIn1eX6INSm5uQHaEK?w=266&h=180&c=7&r=0&o=5&pid=1.7)
+
 ## JavaScript String method indexOf()
 The indexOf() method returns the position of the first occurrence of a value in a string.
 The indexOf() method returns -1 if the value is not found.
