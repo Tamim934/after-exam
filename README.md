@@ -91,3 +91,77 @@ The Math.random() function returns a floating-point, pseudo-random number betwee
 and 1 (exclusive).
 ## JavaScript Number method isNaN()
 The isNaN() function checks if a value is NaN (Not-a-Number) or not
+
+
+# what is array in javascript
+
+An array is an object that holds values (of any type) not particularly in named properties/keys,
+but rather in numerically indexed position
+In JavaScript, an array is an ordered list of values. Each value is called an element specified by
+an index. ... First, an array can hold values of mixed types.
+An array is a special variable, which can hold more than one value:
+
+## array methods
+
+
+
+```bash
+let array=["tamim","safi","sahvaat",1,true,{}]
+array[3]=2
+
+console.log(array)
+
+// easy way to show array in code 
+```
+
+## how many array are ther
+pop()
+The pop() method removes the last element from an array and returns that element.
+This method changes the length of the array
+ forEach()
+
+ join()
+
+indexOf()
+
+concat()
+
+find()
+
+shift()
+The pop() method removes the last element from an array and returns that element.
+This method changes the length of the array
+ map()
+
+ includes()
+
+
+array methods
+
+toString()
+The toString() method returns a string representing the specified array and its
+elements.
+A string representing the elements of the array
+push()
+The push() method adds one or more elements to the end of an array and returns the
+new length of the array.
+The element(s) to add to the end of the array.
+Syntax: push(element0, element1, /* … ,*/ elementN)
+reduce()
+
+splice()
+
+slice()
+
+filter()
+
+toReversed()
+
+unshift()
+The unshift() method adds one or more elements to the beginning of an array and
+returns the new length of the array.
+unshift(element0, element1, /* … ,*/ elementN
+toSorted(
+
+
+![logo](https://th.bing.com/th/id/R.8ec3c7a6e7aafcf00f447e4a540d9533?rik=%2f4DK3JwLZuUwww&pid=ImgRaw&r=0)
